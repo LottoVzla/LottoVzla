@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+requests
+beautifulsoup4
+passlib[bcrypt]
+pyjwt
+python-multipart
+# tensorflow # Descomentar cuando vayamos a entrenar el modelo (es muy pesado para el primer paso)
